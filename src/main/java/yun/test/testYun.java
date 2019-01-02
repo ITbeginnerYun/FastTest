@@ -6,6 +6,6 @@ package yun.test;
  */
 public class testYun {
     public static void main(String[] args) {
-        System.out.println("Bug");
+        System.out.println("Bug"); // test
     }
 }
