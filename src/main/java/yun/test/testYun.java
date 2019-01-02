@@ -8,5 +8,6 @@ public class testYun {
     public static void main(String[] args) {
         System.out.println("Bug"); // test
         System.out.println("Commit"); // test
+        System.out.println("Commit22"); // test
     }
 }
