@@ -7,5 +7,6 @@ package yun.test;
 public class testYun {
     public static void main(String[] args) {
         System.out.println("Bug"); // test
+        System.out.println("Commit"); // test
     }
 }
