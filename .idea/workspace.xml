@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c31f08e8-0d6b-4891-b822-73384332f046" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +65,7 @@
       <updated>1546408028874</updated>
       <workItem from="1546408030144" duration="1096000" />
       <workItem from="1546410114899" duration="125000" />
-      <workItem from="1579656487829" duration="28000" />
+      <workItem from="1579656487829" duration="739000" />
     </task>
     <servers />
   </component>
